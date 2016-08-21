@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ElasticTabstops",
+		"ElixirSublime",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Ruby Slim",
+		"RubyTest",
+		"SCSS",
+		"SublimeERB"
+	]
+}
