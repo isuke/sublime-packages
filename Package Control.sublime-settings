@@ -5,10 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"ElasticTabstops",
 		"ElixirSublime",
 		"ERB Snippets",
 		"Git",
