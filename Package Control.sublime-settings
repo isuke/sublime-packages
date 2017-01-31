@@ -18,9 +18,11 @@
 		"Monokai Extended",
 		"OmniMarkupPreviewer",
 		"Package Control",
+		"Pug",
 		"Ruby Slim",
 		"RubyTest",
 		"SublimeERB",
-		"Syntax Highlighting for Sass"
+		"Syntax Highlighting for Sass",
+		"Vue Syntax Highlight"
 	]
 }
