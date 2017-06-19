@@ -11,9 +11,11 @@
 		"Color Highlighter",
 		"ElixirSublime",
 		"ERB Snippets",
+		"Gist",
 		"Git",
 		"GitGutter",
 		"GitHub Flavored Markdown Preview",
+		"GithubEmoji",
 		"Markdown Extended",
 		"Monokai Extended",
 		"OmniMarkupPreviewer",
@@ -21,9 +23,9 @@
 		"Pug",
 		"RailsGoToSpec",
 		"Ruby Slim",
-		"RubyTest",
 		"SublimeERB",
 		"Syntax Highlighting for Sass",
+		"TestRSpec",
 		"Vue Syntax Highlight"
 	]
 }

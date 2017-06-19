@@ -1,0 +1,10 @@
+{
+  // which rubies to check for when running rspec
+  "check_for_rbenv": true,
+  "check_for_rvm": false,
+  "check_for_system_ruby": false,
+  "check_for_bundler": true,
+  "check_for_spring": true,
+  // rspec runner paths
+  "paths_bin_rspec": "~/.anyenv/envs/rbenv/bin/rbenv",
+}
